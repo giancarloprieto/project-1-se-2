@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Simón Bolívar",
+        "description": "El parque urbano más grande de Bogotá",
+        "area": "113 hectáreas",
+        "tipo": "Parque urbano"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -74.1030700321794,
+              4.6676605215565985
+            ],
+            [
+              -74.1030700321794,
+              4.6548675974407985
+            ],
+            [
+              -74.08223514295545,
+              4.6548675974407985
+            ],
+            [
+              -74.08223514295545,
+              4.6676605215565985
+            ],
+            [
+              -74.1030700321794,
+              4.6676605215565985
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}
